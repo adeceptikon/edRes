@@ -1,0 +1,48 @@
+\documentclass[10pt, a4paper]{article}
+\usepackage[margin=0.5in]{geometry} 
+\title{\underline{7CSS}}
+\date{} 
+ \begin{document} 
+\maketitle 
+\small {\underline{ F.M. 20} \hfill \underline{time : 20 min} } 
+\vspace{5mm} 
+
+\large \underline{GEOGRAPHY}
+\begin{enumerate}
+   \item Name one warm ocean current?
+   \item Define rock cycle.
+   \item Draw a digram for the neap tide.
+   \item Where are large deposits of loess found?
+   \item What is a rock?
+   \item What is the thickness of earth's crust ? 
+   \item What is lithosphere made up of?
+   \item What are the three major types of rocks ?
+   \item How is an ox-bow lake formed?
+   \item Give an example of human made environment ? 
+   \item On the map locate the following:
+   \begin{enumerate}
+       \item Turkey 
+       \item Persian Gulf 
+       \item Bhutan
+       \item Southern Ocean 
+       \item Canberra
+       \item Largest Peninsula
+       \item Java (Island)  
+       \item Arctic Ocean
+       \item Korean Peninsula
+       \item Thailand 
+
+   \end{enumerate} 
+\underline{HISTORY} 
+\begin{enumerate}
+       \item Fatepur Sikri was built by \rule[-1pt]{3cm}{1pt}.
+       \item Sisodiya Rajputs ruled over kingdom of \rule[-1pt]{3cm}{1pt}.
+       \item Who is a bigot ?
+       \item The term \rule[-1pt]{3cm}{1pt} refers to an individual who holds a \textit{mansab}, meaning a position or rank. 
+       \item Who was the wife of Jehangir whose name meant "light of the world".
+       \item What were large groups of villages under Chola Empire called? 
+       \item What were the land grants to the Brahmanas called under the Chola rule? 
+       \item Under whose rule was the Taj Mahal built ? 
+       \item Name some countries of South East Asia. 
+       \item In the Mughal empire, rank and salary were determined value called \rule[-1pt]{3cm}{1pt}.
+\end{enumerate}\end{document}

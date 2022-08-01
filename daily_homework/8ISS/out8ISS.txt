@@ -1,0 +1,45 @@
+\documentclass[10pt, a4paper]{article}
+\usepackage[margin=0.5in]{geometry} 
+\title{\underline{8ISS203}}
+\date{} 
+ \begin{document} \maketitle 
+\small {\underline{ F.M. 20} \hfill \underline{time : 20 min} } 
+\vspace{5mm} 
+
+\large \underline{GEOGRAPHY}
+\begin{enumerate}
+   \begin{enumerate}
+       \item Western Ghats
+       \item Sick Man of Europe 
+       \item Largest Sea
+       \item Maldives(Island) 
+       \item Country with the largest population 
+       \item England 
+       \item Southern Ocean 
+       \item Japan 
+       \item Sinai Peninsula
+       \item Netherlands 
+       \item Andes Mountains
+       \item Mediterranean Sea
+       \item Siberia
+       \item Atlantic Ocean
+       \item Brazil
+       \item Prairies Grassland
+       \item Hong Kong 
+       \item Bali
+       \item Hawaii Island
+       \item Cuba
+   \end{enumerate} 
+\end{enumerate}\underline{HISTORY} 
+\begin{enumerate}
+       \item When did battle of Plassey take place ? 
+       \item When did the first European come to India ? 
+       \item Who applied the Doctrine of Lapse and annexed many Indian princely states ?
+       \item Who was the last Mughal Emperor ? 
+       \item Who led the revolt in Lucknow in the Revolt of 1857 ?
+       \item Who was proclaimed the emperor of Hindustan during the Revolt of 1857 ?
+       \item When did the first battle of Panipat take place ? 
+       \item Name four locations of the Revolt of 1857 ?
+       \item Who invented the steam engine ? 
+       \item When did the first struggle for Independence take place? 
+\end{enumerate}\end{document}

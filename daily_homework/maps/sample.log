@@ -1,0 +1,203 @@
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.6 32-bit) (preloaded format=xelatex 2021.10.12)  12 OCT 2021 08:32
+entering extended mode
+**./sample.tex
+(sample.tex
+LaTeX2e <2021-06-01>
+L3 programming layer <2021-06-01>
+(C:\Users\sss\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+(C:\Users\sss\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count178
+\c@section=\count179
+\c@subsection=\count180
+\c@subsubsection=\count181
+\c@paragraph=\count182
+\c@subparagraph=\count183
+\c@figure=\count184
+\c@table=\count185
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\sss\AppData\Local\Programs\MiKTeX\tex/latex/devanagari\devanagari.sty
+Package: devanagari 2019/03/05 v2.17.1 LaTeX macros for Velthuis Devanagari
+\dev@chnum=\count186
+\itdim=\dimen139
+LaTeX Info: Redefining \dn@commands on input line 238.
+\anudep=\dimen140
+\anuwid=\dimen141
+)
+(C:\Users\sss\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xetex
+.def
+File: l3backend-xetex.def 2021-05-07 L3 backend support: XeTeX
+ ()
+\c__kernel_sys_dvipdfmx_version_int=\count187
+\l__color_backend_stack_int=\count188
+\g__color_backend_stack_int=\count189
+\g__graphics_track_int=\count190
+\l__pdf_internal_box=\box50
+\g__pdf_backend_object_int=\count191
+\g__pdf_backend_annotation_int=\count192
+\g__pdf_backend_link_int=\count193
+) (sample.aux)
+\openout1 = `sample.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
+.
+
+(C:\Users\sss\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/dn/m/n on input line 3.
+LaTeX Font Info:    Trying to load font information for U+dn on input line 3.
+
+(C:\Users\sss\AppData\Local\Programs\MiKTeX\tex/latex/devanagari\udn.fd
+File: Udn.fd 2004/08/03 v2.14
+)
+LaTeX Font Info:    ... okay on input line 3.
+Missing character: There is no त in font dvng10!
+Missing character: There is no ् in font dvng10!
+Missing character: There is no क in font dvng10!
+Missing character: There is no ि in font dvng10!
+Missing character: There is no र in font dvng10!
+Missing character: There is no ु in font dvng10!
+Missing character: There is no च in font dvng10!
+Missing character: There is no ् in font dvng10!
+Missing character: There is no व in font dvng10!
+Missing character: There is no ् in font dvng10!
+Missing character: There is no ि in font dvng10!
+Missing character: There is no ज in font dvng10!
+Missing character: There is no द in font dvng10!
+Missing character: There is no क in font dvng10!
+Missing character: There is no ट in font dvng10!
+Missing character: There is no ज in font dvng10!
+Missing character: There is no े in font dvng10!
+Missing character: There is no द in font dvng10!
+Missing character: There is no ु in font dvng10!
+Missing character: There is no क in font dvng10!
+Missing character: There is no ट in font dvng10!
+Missing character: There is no ा in font dvng10!
+Missing character: There is no ी in font dvng10!
+Missing character: There is no ज in font dvng10!
+Missing character: There is no द in font dvng10!
+Missing character: There is no ु in font dvng10!
+Missing character: There is no त in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no क in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ै in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ो in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no च in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no द in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ै in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ो in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no द in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ग in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no च in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ा in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ी in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no द in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ग in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ु in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ि in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no र in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no च in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ु in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no द in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ग in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ू in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no र in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ी in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ट in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no प in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no द in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ज in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no र in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ट in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ू in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ज in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no र in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no े in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ट in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no द in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ट in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ज in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no द in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no क in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ा in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ट in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ज in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no द in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no क in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no े in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ा in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ट in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ी in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ु in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no द in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no च in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ि in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ् in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no त in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no क in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ट in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ु in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ज in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ि in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ् in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no द in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no क in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no म in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ं in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no न in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no य in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no व in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no त in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no च in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no स in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no म in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no न in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no च in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no त in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no व in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ं in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ट in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no म in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no न in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no व in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ं in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no म in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no व in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ज in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no द in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no क in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ट in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ज in font [lmroman10-regular]:mapping=tex-text;!
+
+[1
+
+] (sample.aux) ) 
+Here is how much of TeX's memory you used:
+ 636 strings out of 411271
+ 10671 string characters out of 2829210
+ 312683 words of memory out of 3000000
+ 21144 multiletter control sequences out of 15000+600000
+ 403809 words of font info for 29 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 37i,5n,41p,150b,174s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on sample.pdf (1 page).

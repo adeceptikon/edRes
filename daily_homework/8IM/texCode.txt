@@ -1,0 +1,87 @@
+\begin{center}
+{\huge {\fontfamily{ptm}\selectfont 8IM200}}
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\end{center}
+\textit{ \ \ \ \ \ \ \ \ \ F.M. 10 													 max time : 10 min}
+
+
+
+1. 	{\fontfamily{ptm}\selectfont What sum of money will amount to }
+
+		$\displaystyle \frac{ \begin{array}{{>{\displaystyle}l}}
+2/34\\
+45\\
+4545637465846784
+\end{array}}{ \begin{array}{{>{\displaystyle}l}}
+34523462456262623\\
+\end{array}}$
+
+
+
+
+
+
+\tikzset{every picture/.style={line width=0.75pt}} %set default line width to 0.75pt        
+
+\begin{tikzpicture}[x=0.75pt,y=0.75pt,yscale=-1,xscale=1]
+%uncomment if require: \path (0,300); %set diagram left start at 0, and has height of 300
+
+%Snip Single Corner Rect [id:dp7330665529678333] 
+\draw   (275,86) -- (361.45,86) -- (387,111.55) -- (387,159) -- (275,159) -- cycle ;
+%Shape: Trapezoid [id:dp755359201556894] 
+\draw   (38,271) -- (82.4,123) -- (218.6,123) -- (263,271) -- cycle ;
+%Shape: Circle [id:dp29546502832953725] 
+\draw   (431,201) .. controls (431,169.52) and (456.52,144) .. (488,144) .. controls (519.48,144) and (545,169.52) .. (545,201) .. controls (545,232.48) and (519.48,258) .. (488,258) .. controls (456.52,258) and (431,232.48) .. (431,201) -- cycle ;
+
+
+
+
+\end{tikzpicture}
+
+
+
+
+
+2. 	sdf afawefaweflkhawkefj hawef 
+
+waefwaekfj;waelf we
+
+fwea;fk'wefwae
+
+
+
+3.wa fweaf wa f wae
+
+
+
+4.
+
+
+
+5.
+
+
+
+6.
+
+
+
+7.
+
+f weafwaef waef 
+
+8.
+
+
+
+9.
+
+
+
+10.
+
+
+
+
+

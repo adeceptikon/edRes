@@ -1,0 +1,47 @@
+AMERICAN:
+Native indians
+
+EUROPEAN:
+rus
+nordic
+roman 
+gypsies
+slav
+
+AUSTRALIAN:
+australian aborigines
+maori
+
+AFRICAN:
+bantu
+masai
+
+ASIAN:
+arabic
+chinese greek 
+japanese
+korean
+mongol tribes
+
+INDIAN:
+tamil
+telugu
+malayali
+kannada
+gujarati
+kashmiri
+bengali
+santhali
+ aghori
+ rajasthani tribes
+
+
+OTHER:
+jewish
+christian
+turk tribes
+nomad
+
+polynesian tribes 
+hawai tribes
+
